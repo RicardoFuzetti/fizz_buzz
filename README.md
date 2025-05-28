@@ -1,6 +1,8 @@
 # FizzBuzz
 
-**TODO: Add description**
+Múltiplos de 3 substituidos por Fizz
+Múltiplos de 5 substituidos por Buzz
+Múltiplos de 3 e 5 substituidos por FizzBuzz
 
 ## Installation
 
